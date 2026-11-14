@@ -1,0 +1,9 @@
+{
+  "name": "northline-font-study",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "dependencies": {
+    "opentype.js": "2.0.0"
+  }
+}

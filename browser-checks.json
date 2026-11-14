@@ -1,0 +1,72 @@
+{
+  "at": "2026-11-14T05:33:31.276Z",
+  "browser": "157.0.4341.46",
+  "checks": [
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "fonts": [
+        {
+          "family": "Reference",
+          "status": "loaded"
+        },
+        {
+          "family": "StudyA",
+          "status": "loaded"
+        },
+        {
+          "family": "StudyB",
+          "status": "loaded"
+        }
+      ],
+      "samples": [
+        {
+          "font": "Reference",
+          "text": "harmony ᚠᚢᚦᚨᚱᚲ"
+        },
+        {
+          "font": "StudyA",
+          "text": "harmony ᚠᚢᚦᚨᚱᚲ"
+        },
+        {
+          "font": "StudyB",
+          "text": "harmony ᚠᚢᚦᚨᚱᚲ"
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "fonts": [
+        {
+          "family": "Reference",
+          "status": "loaded"
+        },
+        {
+          "family": "StudyA",
+          "status": "loaded"
+        },
+        {
+          "family": "StudyB",
+          "status": "loaded"
+        }
+      ],
+      "samples": [
+        {
+          "font": "Reference",
+          "text": "harmony ᚠᚢᚦᚨᚱᚲ"
+        },
+        {
+          "font": "StudyA",
+          "text": "harmony ᚠᚢᚦᚨᚱᚲ"
+        },
+        {
+          "font": "StudyB",
+          "text": "harmony ᚠᚢᚦᚨᚱᚲ"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "interactionPassed": true
+}

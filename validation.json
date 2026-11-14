@@ -1,0 +1,36 @@
+{
+  "at": "2026-11-14T05:32:59.376Z",
+  "reports": [
+    {
+      "filename": "fonts/NorthlineStudy-Reference.otf",
+      "sha256": "5dfe403aa43306905eb0226bf1d8de4b5f691fc09259a93d97cf7c8f2682c7dd",
+      "glyphCount": 185,
+      "codepoints": 184,
+      "xHeight": 536,
+      "capHeight": 714,
+      "lowercaseAscender": 760,
+      "descender": -240
+    },
+    {
+      "filename": "fonts/NorthlineStudy-A.otf",
+      "sha256": "d236c37964d2f4ef0300fe1054fd4612cd2a7ca9f91f88a8140b9e01f9898171",
+      "glyphCount": 185,
+      "codepoints": 184,
+      "xHeight": 628,
+      "capHeight": 714,
+      "lowercaseAscender": 714,
+      "descender": -240
+    },
+    {
+      "filename": "fonts/NorthlineStudy-B.otf",
+      "sha256": "7057f4ec411dab201f898a59e85c2fcff5a129570c5180667eba22c4b3092846",
+      "glyphCount": 185,
+      "codepoints": 184,
+      "xHeight": 657,
+      "capHeight": 714,
+      "lowercaseAscender": 714,
+      "descender": -240
+    }
+  ],
+  "scope": "Compiled OTF coverage and geometry checks only. No kerning, hinting, diacritic or full-language QA implied."
+}
